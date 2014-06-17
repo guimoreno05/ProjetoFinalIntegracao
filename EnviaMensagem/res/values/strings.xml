@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnviaMensagem</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mostra_mensagem">Mensagem Recebida</string>
+    <string name="title_activity_mostra_msg">MostraMensagemActivity</string>
+    <string name="msgs_recebidas">Mensagens recebidas</string>
+    <string name="title_activity_visualiza_msg">VisualizaMensagem</string>
+
+</resources>
